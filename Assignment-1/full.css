@@ -1,0 +1,32 @@
+h1{
+    color: red;
+}
+h2{
+    color: red;
+    font-style: italic;
+}
+li{
+    color: brown;
+    word-spacing: 100%;
+}
+ul{
+    word-spacing: 4px;
+    font-weight: 700;
+    letter-spacing: 4px;
+}
+
+
+.item1{
+    background-color: yellow;
+    font-weight: 1000;
+   
+}
+p{
+    color: brown;
+}
+a{
+    font-style: italic;
+    color: red;
+    background-color: yellow;
+    font-weight: 400;
+}
